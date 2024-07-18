@@ -1,4 +1,4 @@
-# PDF RAG 검색 및 요약
+# Ollama - Gemma2 기반의 PDF RAG 검색 및 요약
 
 이 프로젝트는 PDF 파일을 청크로 분할하고, 이를 SQLite 데이터베이스에 저장하는 Python 스크립트를 포함하고 있습니다. 목적은 PDF 데이터를 RAG(Retrieval-Augmented Generation) 모델을 사용하여 검색하고 요약하는 것입니다. 
 
