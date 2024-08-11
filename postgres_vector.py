@@ -8,7 +8,7 @@ from langchain_community.embeddings.sentence_transformer import (
 from langchain_community.llms import Ollama
 from langchain.chains import RetrievalQA
 
-CONNECTION_STRING = "postgresql+psycopg2://postgres:bk870105@localhost:5432/postgres"
+CONNECTION_STRING = "postgresql+psycopg2://postgres:!@#$%^@localhost:5432/postgres"
 
 ##--------------------------------------------------------------##
 def load_pdf_process(file_path):
